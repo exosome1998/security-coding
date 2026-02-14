@@ -1,0 +1,4 @@
+flask          # Web framework for creating the social media routes
+flask-limiter  # Library used to stop bots from spamming the API
+bcrypt         # Industry standard for salting and hashing passwords
+flask-wtf      # Provides CSRF (Cross-Site Request Forgery) protection
