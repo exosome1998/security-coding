@@ -1,0 +1,6 @@
+import hashlib
+p, s = "cat", "99"
+# STEP 1: Combine s + p
+# TODO: combined = ...
+# STEP 2: Hash it
+# TODO: final = ...

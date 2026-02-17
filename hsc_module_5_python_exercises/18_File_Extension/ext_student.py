@@ -1,0 +1,3 @@
+f = "script.bat"
+# STEP 1: Check if ends with .bat
+# TODO: ...
