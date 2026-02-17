@@ -1,3 +1,0 @@
-tries = 4
-# STEP 1: If tries > 3, print 'Locked'
-# TODO: ...

@@ -1,1 +1,0 @@
-print(f"Is Number? {'12A'.isdigit()}")
